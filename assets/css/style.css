@@ -1,0 +1,40 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    height: 700px;
+    width: 1200px;
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.container {
+    background-color: rgb(238, 206, 206);
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+    height: 600px;
+    padding: 20px;
+}
+
+.words {
+font-size: 24px;
+text-decoration-color: blue;
+height: 50px;
+width: 500px;
+border: 2px solid black;
+padding: 20px;
+margin: auto;
+position: center;
+}
+
+#rightGuess {
+    font-size: 24px;
+    text-decoration-color: orangered;
+    }
+
+#wrongGuess {
+        font-size: 24px;
+        text-decoration-color: red;
+        }
